@@ -9,6 +9,7 @@
 **Course:** Open Source Software (OSS NGMC)  
 
 **Project Type:** Open Source Audit Capstone Project  
+
 **Chosen Software:** Git  
 
 ---
