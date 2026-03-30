@@ -3,8 +3,11 @@
 
 ## Student Information
 **Student Name:** Akula Lasya 
+
 **Registration Number:** 24MIP10051 
+
 **Course:** Open Source Software (OSS NGMC)  
+
 **Project Type:** Open Source Audit Capstone Project  
 **Chosen Software:** Git  
 
